@@ -16,7 +16,6 @@
 | ------------- | ------------- |
 | Works with any testing framework library | Selenium server must be started independently |
 | Simpler to use compare to Nightwatch ||
-| Simpler compare to Nightwatch.js ||
 | Synchoronous implementation of asynchronous browser commands ||
 | Allows you to do visual regression test using Webdriver CSS | |
 | Used by Chimp.js | |
