@@ -22,6 +22,7 @@
 | Excellent API documentation | |
 
 Please see this link for the installation  [Webdriverio](http://webdriver.io/guide/getstarted/install.html)
+[WebdriverIO API commands](http://webdriver.io/api.html)
 
 ##  [Nightwatch.js](http://nightwatchjs.org/)
 
@@ -32,4 +33,5 @@ Please see this link for the installation  [Webdriverio](http://webdriver.io/gui
 
 
 Please see this link for the installation  [Nightwatchjs](http://nightwatchjs.org/gettingstarted/)
+[Nightwatch API commands](http://nightwatchjs.org/api/)
 
