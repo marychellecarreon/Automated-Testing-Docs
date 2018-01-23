@@ -14,6 +14,8 @@
 | PROS          |          CONS |
 | ------------- | ------------- |
 | Works with any testing framework library | Selenium server must be started independently |
+| Simpler to use compare to Nightwatch ||
+| Simpler compare to Nightwatch.js ||
 | Synchoronous implementation of asynchronous browser commands ||
 | Allows you to do visual regression test using Webdriver CSS | |
 | Used by Chimp.js | |
@@ -26,6 +28,7 @@ Please see this link for the installation  [Webdriverio](http://webdriver.io/gui
 | PROS          |          CONS |
 | ------------- | ------------- |
 | You don't have to choose a testing framework | Include its own testing framework / assertions library |
+| More complex but offers a lot of solution out of the box ||
 
 
 Please see this link for the installation  [Nightwatchjs](http://nightwatchjs.org/gettingstarted/)
