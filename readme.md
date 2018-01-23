@@ -9,6 +9,7 @@
 ## Preferred for automation testing are the following:
 ## [WebdriverIO](http://webdriver.io/) 
  - Slant community recommends this one (1st rank while Nightwatch ranked 6th)
+ - Write Selenium tests in JS with the use of WebDriver protocol API.
 
 
 | PROS          |          CONS |
@@ -25,6 +26,7 @@ Please see this link for the installation  [Webdriverio](http://webdriver.io/gui
 [WebdriverIO API commands](http://webdriver.io/api.html)
 
 ##  [Nightwatch.js](http://nightwatchjs.org/)
+ - For end-to-end testing, this uses Selenium Webdriver's API to perform commands and assertions on DOM elements.
 
 | PROS          |          CONS |
 | ------------- | ------------- |
